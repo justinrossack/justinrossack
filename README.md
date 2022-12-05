@@ -6,7 +6,7 @@ A short RoadMap with all Projects there are currently in work. RoadMap shows wha
 
 #### Step 1
 
-| Status | Job | Lable | Started |
+| Status | Job | Lable | Started (dd.MM.yyy) |
 | :---: | :--- | :---: | :---: |
-| 🚀 | **[Implement New Project Management Model](#implement-new-project-management-model)** | 3 / 6 | Sat Oct 01 2016 |
-| 🚀 | **[First Organization Roadmap](#first-organization-roadmap)** | 0 / 1 | Tue Nov 01 2016 |
+| 🚀 | **Backend (Login & Register)** | In Work | 03.12.2022 |
+| 🚀 | **Frontend (Login, Register and Dashboard)** | In Work | 04.12.2022 |

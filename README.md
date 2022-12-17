@@ -1,7 +1,7 @@
 # RoadMap - Current Projects
 
 ## My Domains (Projects)
-- [Uli.fyi](https://uli.fyi/)
+- [Uli.fyi](https://uli.fyi/) [](https://img.shields.io/static/v1?label=Maintenanced?&message=Yes&color=green)
 - [SortyGames.net](https://sortygames.net/)
 - [Sorty.Cloud](https://sorty.cloud/)
 - [Sorty.Life](https://sorty.life/)

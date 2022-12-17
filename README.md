@@ -1,5 +1,14 @@
 # RoadMap - Current Projects
 
+## My Domains (Projects)
+- [Uli.fyi](https://uli.fyi/)
+- [SortyGames.net](https://sortygames.net/)
+- [Sorty.Cloud](https://sorty.cloud/)
+- [Sorty.Life](https://sorty.life/)
+- [justin2206.de](https://justin2206.de/)
+- [DevCrew.Dev](https://devcrew.dev/)
+- [Sorty-Games.com](https://sorty-games.com/)
+
 A short RoadMap with all Projects there are currently in work. The RoadMap shows what will come in 2023 Step by Step.
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=justinrossack&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/justinrossack)

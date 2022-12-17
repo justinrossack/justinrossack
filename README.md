@@ -2,6 +2,8 @@
 
 A short RoadMap with all Projects there are currently in work. The RoadMap shows what will come in 2023 Step by Step.
 
+[![My Stats](https://github-readme-stats.vercel.app/api?username=justinrossack&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/justinrossack)
+
 ## Legacy
 
 ✅ = Done

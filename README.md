@@ -1,10 +1,10 @@
 # RoadMap - Current Projects
 
 ## My Domains (Projects)
-- [Uli.fyi](https://uli.fyi/) [![Test (https://img.shields.io/static/v1?label=Maintenanced?&message=Yes&color=green)]](https://uli.fyi)
-- [SortyGames.net](https://sortygames.net/)
-- [Sorty.Cloud](https://sorty.cloud/)
-- [Sorty.Life](https://sorty.life/)
+- [Uli.fyi](https://uli.fyi/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://uli.fyi/)
+- [SortyGames.net](https://sortygames.net/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://sortygames.net)
+- [Sorty.Cloud](https://sorty.cloud/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://sorty.cloud)
+- [Sorty.Life](https://sorty.life/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://sorty.life)
 - [justin2206.de](https://justin2206.de/)
 - [DevCrew.Dev](https://devcrew.dev/)
 - [Sorty-Games.com](https://sorty-games.com/)

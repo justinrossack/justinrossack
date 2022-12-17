@@ -39,3 +39,7 @@ A short RoadMap with all Projects there are currently in work. The RoadMap shows
 | ✅ | **Backend ([Laravel Passport](https://laravel.com/docs/9.x/passport))** | Done | 10.11.2022 - 14.11.2022 |
 | ✅ | **Connect Discord ([Laravel Socialite](https://packagist.org/packages/socialiteproviders/discord) & [Discord API](https://discord.com/developers/docs/topics/oauth2))** | Done | 20.11.2022 - 25.11.2022 |
 | 🚀 | **Frontend (Translate, Redesign)** | In Work | 24.11.2022 |
+
+## About Me :)
+- My Stackoverflow: [Stackoverflow Link](https://stackoverflow.com/users/19505552/justin-rossack)
+

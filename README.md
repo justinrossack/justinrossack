@@ -16,6 +16,7 @@ A short RoadMap with all Projects there are currently in work. The RoadMap shows
 | :---: | :--- | :---: | :---: |
 | ✅ | **Backend (Login & Register)** | Done | 03.12.2022 - 04.12.2022 |
 | 🚀 | **Frontend (Login, Register and Dashboard)** | In Work | 04.12.2022 |
+| 🚀 | **Backend (API for Update Links, Get Links, Update Connections and Get Connections)** | In Work | 09.12.2022 |
 | ❌ | **Add Connections ([YouTube](https://developers.google.com/youtube/v3/guides/authentication), [Discord](https://discord.com/developers/docs/topics/oauth2) and [Pinterest](https://developers.pinterest.com/docs/api/v5/))** | Waiting | - |
 
 ## SortyCloud (v0.5)

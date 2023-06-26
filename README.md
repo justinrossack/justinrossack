@@ -1,5 +1,3 @@
-# RoadMap - Current Projects
-
 ## My Domains (Projects)
 - [Uli.fyi](https://uli.fyi/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://uli.fyi/)
 - [SortyGames.net](https://sortygames.net/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://sortygames.net)
